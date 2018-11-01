@@ -3,6 +3,8 @@ pandas,numpy,matplotlib,seaborn<br>
 
 Using data from https://pubgtracker.com/ to analyse best strategies to play PUBG <br>
 
+Download datasets from https://drive.google.com/file/d/1E7yHRPW04sAc3mu90jbPHdiy9MWKCcO3/view
+
 From the first heat map we can conclude that:<br>
 <br>
 Most fighting features seem to matter<br>
