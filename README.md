@@ -1,4 +1,29 @@
+Requirements <br>
+pandas,numpy,matplotlib,seaborn<br>
 
+Using data from https://pubgtracker.com/ to analyse best strategies to play PUBG <br>
+
+From the first heat map we can conclude that:<br>
+<br>
+Most fighting features seem to matter<br>
+killPoints (Kill Rating for Ingame Statistic/Leaderboard) are not that important<br>
+teamKills are friendly fire kills<br>
+killPlace is the most Important feature so far<br>
+<br>
+From the second Heatmap we can see that<br>
+<br>
+walkDistance seems very important, which makes sense: you can only walk around if you are still alive!<br>
+Same for swim and rideDistance but not that important <br>
+winPoints you gain are not that much connected to your actual surviving time<br>
+<br>
+<br>
+So the conclusion from this analysis is<br>
+
+To survive longer in PUBG, you should be able to fight well, but also acquire many weapons.<br>
+In general walking should be the preferred way to move.
+<br>
+Even noobs know this :)
+<br>
 
 ```python
 import numpy as np
